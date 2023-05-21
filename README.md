@@ -6,7 +6,7 @@
         I'm Lucas.<br>
         Currently learning PHP without falling on my bottom.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/lucasDemori21">
+    <a href="https://www.linkedin.com/in/lucas-demori21/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
